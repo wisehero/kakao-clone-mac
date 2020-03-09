@@ -16,12 +16,12 @@
   cursor: pointer;
 }
 
-.header .header__header_column {
+.header .header__header-column {
   display: flex;
   align-items: center;
 }
 
-.header .header_back-btn {
+.header .header__back-btn {
   font-size: 22px;
   margin-right: 20px;
 }
