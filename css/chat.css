@@ -148,10 +148,6 @@
   }
 }
 
-.message .message__content {
-  width: 80%;
-}
-
 .incoming-message img {
   width: 30px;
   border-radius: 15px;
